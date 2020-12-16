@@ -1,13 +1,5 @@
-@font-face {
-    font-family: Tahoma, sans-serif;
-  }
-  @font-face {
-    font-family: Tahoma, sans-serif;
-  }
-
-
 .LatexTitle{
-    font-family: CMR;
+    font-family: 'Raleway', sans-serif;
     font-size: 40px;
     padding-top: 40vh;
     text-align: center;
@@ -15,13 +7,13 @@
 }
 
 .LatexName{
-    font-family: CMR;
+    font-family: 'Raleway', sans-serif;
     font-size: 27px;
     text-align: center;
     margin-bottom: 13px;
 }
 .LatexDate{
-    font-family: CMR;
+    font-family: 'Raleway', sans-serif;
     font-size: 27px;
     text-align: center;
     margin-top: 13px;
@@ -29,7 +21,7 @@
 }
 
 .LatexAbstract{
-    font-family: CMB;
+    font-family: 'Raleway', sans-serif;
     font-weight: bold;
     font-size: 25px;
     text-align: center;
@@ -38,7 +30,7 @@
 
 .LatexAbstractText{
     margin-top:10px;
-    font-family: CMR;
+    font-family: 'Raleway', sans-serif;
     font-size: 21px;
     text-align: center;
     text-indent: 20px
@@ -56,7 +48,7 @@
 }
 
 .Section{
-    font-family: CMB;
+    font-family: 'Raleway', sans-serif;
     font-size: 33px;
     text-align: Left;
     margin-top: 13px;
@@ -64,7 +56,7 @@
 }
 
 .BodyText{
-    font-family: CMR;
+    font-family: 'Raleway', sans-serif;
     font-size: 23px;
     text-align: Left;
     margin-top: 13px;

@@ -1,10 +1,8 @@
 @font-face {
-    font-family: CMR;
-    src: url(/assets/fonts/cmuserif_roman_macroman/cmunrm-webfont.woff);
+    font-family: 'Raleway', sans-serif;
   }
   @font-face {
-    font-family: CMB;
-    src: url(/assets/fonts/cmuserif_bold_macroman/cmunbx-webfont.woff);
+    font-family: 'Raleway', sans-serif;
   }
 
 
